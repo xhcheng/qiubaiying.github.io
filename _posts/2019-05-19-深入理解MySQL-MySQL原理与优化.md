@@ -11,7 +11,7 @@ tags:                                        #标签
 ---
 
 
-#MySQL体系结构
+## MySQL体系结构
 ![MySQL体系结构图](/img/mysql-structure.png)
 
 **1.Connectors：**不同语音中与sql的交互，简单说就是接口客户端。
